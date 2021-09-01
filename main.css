@@ -41,7 +41,7 @@ header nav a:hover{
 /*Jogo Principal*/
 .jogo-principal{
     font-size: 16px;
-    background-image: linear-gradient(rgba(1,1,1,1), rgba(2,2,2,.50)40%), url(/assets/capa-tlou.jpg);
+    background-image: linear-gradient(rgba(1,1,1,1), rgba(2,2,2,.50)40%), url(capa-tlou.jpg);
     height: 400px;
     background-size: cover;
     display: flex;
