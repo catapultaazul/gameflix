@@ -1,6 +1,6 @@
 <h1><a href="https://catapultaazul.github.io/gameflix/">Gameflix</a></h1>
 
-<img src="">
+<img src="gameflix.png">
 
 <h2>Technologies</h2>
 <ul>
